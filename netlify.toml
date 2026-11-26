@@ -1,0 +1,4 @@
+[build]
+  base = "vbx-site-repo"
+  command = ""
+  publish = "."
